@@ -16,7 +16,7 @@ import org.apache.commons.mail.SimpleEmail;
  */
 public class EnvioCommonsMail {
 	
-	private static final String CONTEUDO_TEXTO_EMAIL = "EQUIPE SH3 INFORMÁTICA";
+	private static final String CONTEUDO_TEXTO_EMAIL = "EQUIPE WRJD";
 	
 	/**
 	 * Criação do email simples

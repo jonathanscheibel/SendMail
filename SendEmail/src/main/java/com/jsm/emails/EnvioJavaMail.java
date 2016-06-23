@@ -17,7 +17,7 @@ import javax.mail.internet.MimeMultipart;
 
 public class EnvioJavaMail {
 
-	private static final String CONTEUDO_TEXTO_EMAIL = "EQUIPE SH3 INFORMÁTICA";
+	private static final String CONTEUDO_TEXTO_EMAIL = "EQUIPE WRJD";
 
 	private static Message createMessage() {
 		// Criando todas as proriedades necessárias
